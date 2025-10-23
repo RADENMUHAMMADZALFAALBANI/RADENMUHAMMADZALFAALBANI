@@ -16,8 +16,8 @@
 
 ### 📊 GitHub Stats & Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zalfa-Albani&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zalfa-Albani&layout=compact&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RadenMuhammadZalfaAlbani&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadenMuhammadZalfaAlbani&layout=compact&theme=radical&hide_border=true" height="165" />
 </p>
 
 ---
@@ -31,7 +31,7 @@
 
 ### 🏆 Achievements & Badges
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RADENMUHAMMADZALFAALBANI&theme=darkhub&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RadenMuhammadZalfaAlbani&theme=darkhub&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -56,5 +56,9 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zalfa-Albani&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=RadenMuhammadZalfaAlbani&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
+
+---
+
+<p align="center">💫 “Code, Create, and Keep Improving Every Day.” 💫</p>
