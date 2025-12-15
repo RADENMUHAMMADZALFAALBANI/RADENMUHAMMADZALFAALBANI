@@ -36,11 +36,11 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://instagram.com/your_instagram_username">
+  <a href="https://instagram.com/zalfa4lb4ni" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.tiktok.com/@claymoree_22" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </p>
 
