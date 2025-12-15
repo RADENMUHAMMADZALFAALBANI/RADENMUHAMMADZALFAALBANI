@@ -23,9 +23,7 @@
 ---
 
 ### 🧰 Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,python,cpp,php,nodejs,unity,vscode,github" />
-</p>
+<p align="center"> <!-- Programming Languages --> <img src="https://skillicons.dev/icons?i=cpp,python" /> </p> <p align="center"> <!-- Cyber Security & Linux Tools --> <img src="https://skillicons.dev/icons?i=linux,bash,vscode,github" /> </p> <p align="center"> <!-- Cyber Security Badges --> <img src="https://img.shields.io/badge/Cyber%20Security-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=green" /> <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" /> </p>
 
 ---
 
