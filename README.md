@@ -18,3 +18,8 @@ OS       : Kali Linux
 Learning : Web Security • Reverse Engineering • CTF
 Dream    : Become a Security Engineer
 ```
+<h2 align="center">⚔️ Arsenal</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,linux,bash,git,github,mysql,html,css,javascript,vscode"/>
+</p>
