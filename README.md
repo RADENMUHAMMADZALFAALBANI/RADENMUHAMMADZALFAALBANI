@@ -1,23 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0F,1a1a2e,FFD166,FF6B35&height=160&section=header&text=⚓%20Zalfa%20Albani&fontSize=42&fontColor=FFD166&animation=fadeIn&fontAlignY=42&desc=Cyber%20Pirate%20%7C%20Informatics%20Student%20%7C%20Code%20%26%20Conquer&descAlignY=65&descSize=14&descColor=FFA94D" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=160&section=header&text=⚓%20Zalfa%20Albani&fontSize=42&fontColor=FFD166&animation=fadeIn&fontAlignY=42&desc=Cyber%20Pirate%20%7C%20Informatics%20Student%20%7C%20Code%20%26%20Conquer&descAlignY=65&descSize=14&descColor=FFA94D)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=FFD166&center=true&vCenter=true&width=550&lines=🔐+Cybersecurity+Explorer;🐍+Python+%26+C%2B%2B+Dev;🏴‍☠️+Straw+Hat+Coder;🌊+Sailing+through+the+Digital+Ocean)](https://git.io/typing-svg)
+
+![Visitors](https://komarev.com/ghpvc/?username=RadenMuhammadZalfaAlbani&color=FF6B35&style=for-the-badge&label=⚓+CREW)
 
 </div>
 
 <br/>
 
-<!-- GREETING + ART ROW -->
-<div align="center">
-
-### ⚡ Biasa Ajaaa! ⚡
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=FFD166&center=true&vCenter=true&width=550&lines=%F0%9F%94%90+Cybersecurity+Explorer;%F0%9F%90%8D+Python+%26+C%2B%2B+Dev;%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+Straw+Hat+Coder;%F0%9F%8C%8A+Sailing+through+the+Digital+Ocean)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table align="center" border="0">
 <tr>
 <td valign="top" width="55%">
 
@@ -46,16 +39,14 @@ class ZalfaAlbani:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFD166)](https://instagram.com/zalfa4lb4ni)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=FFD166)](https://www.tiktok.com/@claymoree_22)
-![Visitors](https://komarev.com/ghpvc/?username=RadenMuhammadZalfaAlbani&color=FF6B35&style=for-the-badge&label=⚓+Crew)
 
 </td>
 <td valign="top" width="45%" align="center">
 
-<img src="https://media.giphy.com/media/kfUuyN3wJQVIqavLG5/giphy.gif" width="260" style="border-radius:16px;" alt="Luffy Gear 5" />
+<img src="https://i.pinimg.com/originals/b1/61/2d/b1612d5240d2da00a9e5e87ff3f79e7d.gif" width="260" alt="Luffy Gear 5"/>
 
-> *"Orang yang tidak bisa melindungi apa pun,*
-> *tidak bisa melindungi siapapun."*
-> — **Roronoa Zoro** 🗡️
+> *"Aku tidak mau mati di tempat ini!"*
+> — **Monkey D. Luffy** 🏴‍☠️
 
 </td>
 </tr>
@@ -67,10 +58,10 @@ class ZalfaAlbani:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RadenMuhammadZalfaAlbani&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=FFD166&icon_color=FF6B35&text_color=FFA94D&border_radius=12&custom_title=⚓%20Pirate%20Stats&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadenMuhammadZalfaAlbani&layout=compact&hide_border=true&bg_color=0A0A0F&title_color=FFD166&text_color=FFA94D&border_radius=12&custom_title=🗡️%20Arsenal" height="165"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RadenMuhammadZalfaAlbani&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD166&icon_color=FF6B35&text_color=FFA94D&border_radius=12&custom_title=⚓ Pirate Stats&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadenMuhammadZalfaAlbani&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD166&text_color=FFA94D&border_radius=12&custom_title=🗡️ Arsenal"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RadenMuhammadZalfaAlbani&hide_border=true&background=0A0A0F&ring=FFD166&fire=FF6B35&currStreakLabel=FFD166&sideLabels=FFA94D&dates=666666&border_radius=12" height="155"/>
+<img src="https://streak-stats.demolab.com/?user=RadenMuhammadZalfaAlbani&hide_border=true&background=0D1117&ring=FFD166&fire=FF6B35&currStreakLabel=FFD166&sideLabels=FFA94D&dates=888888&border_radius=12" height="155"/>
 
 </div>
 
@@ -97,7 +88,9 @@ class ZalfaAlbani:
 ### 🏆 Grand Line Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RadenMuhammadZalfaAlbani&theme=gruvbox&no-frame=true&margin-w=6&column=7" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=RadenMuhammadZalfaAlbani&theme=gruvbox&no-frame=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
@@ -105,7 +98,9 @@ class ZalfaAlbani:
 ### 🌊 Voyage Activity Map
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RadenMuhammadZalfaAlbani&bg_color=0A0A0F&color=FFD166&line=FF6B35&point=FFA94D&area=true&area_color=FF6B3540&hide_border=true&border_radius=12&custom_title=⚓%20Pirate%20Voyage%20Log" />
+
+[![Zalfa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RadenMuhammadZalfaAlbani&bg_color=0D1117&color=FFD166&line=FF6B35&point=FFA94D&area=true&hide_border=true&border_radius=12&custom_title=⚓ Pirate Voyage Log)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 ---
@@ -113,10 +108,9 @@ class ZalfaAlbani:
 ### 🐍 Sea Serpent Trail
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake animation" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</picture>
+
+![snake gif](https://github.com/RadenMuhammadZalfaAlbani/RadenMuhammadZalfaAlbani/blob/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 ---
@@ -130,6 +124,6 @@ class ZalfaAlbani:
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0F,1a1a2e,FFD166,FF6B35&height=120&section=footer&animation=fadeIn" />
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer&animation=fadeIn)
 
 </div>
