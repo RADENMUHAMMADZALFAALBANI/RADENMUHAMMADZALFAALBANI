@@ -18,6 +18,8 @@ OS       : Kali Linux
 Learning : Web Security • Reverse Engineering • CTF
 Dream    : Become a Security Engineer
 ```
+📊 Grand Line Stats
+
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=RadenMuhammadZalfaAlbani&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD166&icon_color=FF6B35&text_color=FFA94D&border_radius=12&custom_title=⚓ Pirate Stats&include_all_commits=true&count_private=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadenMuhammadZalfaAlbani&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD166&text_color=FFA94D&border_radius=12&custom_title=🗡️ Arsenal"/>
