@@ -36,6 +36,9 @@ Dream    : Become a Security Engineer
 "The One Piece isn't just a treasure, it's the knowledge we gain along the way."
 
 — Monkey D. Luffy 👒
+<p align="center">
+  <img src="./kapal.jpg" width="70%">
+</p>
 
 ⭐ Thanks for visiting my profile!
 
