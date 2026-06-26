@@ -31,3 +31,12 @@ Dream    : Become a Security Engineer
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+<div align="center">
+
+"The One Piece isn't just a treasure, it's the knowledge we gain along the way."
+
+— Monkey D. Luffy 👒
+
+⭐ Thanks for visiting my profile!
+
+</div> ```
