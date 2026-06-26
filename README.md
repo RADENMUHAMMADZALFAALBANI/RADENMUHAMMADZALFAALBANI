@@ -1,129 +1,46 @@
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=160&section=header&text=⚓%20Zalfa%20Albani&fontSize=42&fontColor=FFD166&animation=fadeIn&fontAlignY=42&desc=Cyber%20Pirate%20%7C%20Informatics%20Student%20%7C%20Code%20%26%20Conquer&descAlignY=65&descSize=14&descColor=FFA94D)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=FFD166&center=true&vCenter=true&width=550&lines=🔐+Cybersecurity+Explorer;🐍+Python+%26+C%2B%2B+Dev;🏴‍☠️+Straw+Hat+Coder;🌊+Sailing+through+the+Digital+Ocean)](https://git.io/typing-svg)
-
-![Visitors](https://komarev.com/ghpvc/?username=RadenMuhammadZalfaAlbani&color=FF6B35&style=for-the-badge&label=⚓+CREW)
-
-</div>
-
-<br/>
-
-<table align="center" border="0">
-<tr>
-<td valign="top" width="55%">
-
-### 🗺️ Captain's Log
-
-```python
-class ZalfaAlbani:
-    name      = "Raden Muhammad Zalfa Albani"
-    role      = "🏴‍☠️ Informatics Student"
-    dream     = "King of the Hackers 👑"
-    
-    powers    = ["Cybersecurity", "Python",
-                 "C++", "Linux", "CTF"]
-    
-    ship      = "Kali Linux 🐉"
-    devil_fruit = "Hack-Hack no Mi 🍎"
-    treasure  = "The One Piece of Knowledge"
-    
-    fuel      = ["☕ Coffee", "🎵 Lo-fi"]
-    status    = "Always Exploring... 🧭"
-```
-
-<br/>
-
-**📬 Transponder Snail**
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFD166)](https://instagram.com/zalfa4lb4ni)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=FFD166)](https://www.tiktok.com/@claymoree_22)
-
-</td>
-<td valign="top" width="45%" align="center">
-
-<img src="https://i.pinimg.com/originals/b1/61/2d/b1612d5240d2da00a9e5e87ff3f79e7d.gif" width="260" alt="Luffy Gear 5"/>
-
-> *"Aku tidak mau mati di tempat ini!"*
-> — **Monkey D. Luffy** 🏴‍☠️
-
-</td>
-</tr>
-</table>
-
+<h1 align="center">✨ Hi there, I'm <span style="color:#ffb400;">Raden Muhammad Zalfa Albani</span> 👋</h1>
+<p align="center">
+  <img src="
+https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD166&center=true&vCenter=true&width=435&lines=Informatics+Student;Creative+Thinker;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
 ---
-
-### 📊 Grand Line Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RadenMuhammadZalfaAlbani&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD166&icon_color=FF6B35&text_color=FFA94D&border_radius=12&custom_title=⚓ Pirate Stats&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadenMuhammadZalfaAlbani&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD166&text_color=FFA94D&border_radius=12&custom_title=🗡️ Arsenal"/>
-
-<img src="https://streak-stats.demolab.com/?user=RadenMuhammadZalfaAlbani&hide_border=true&background=0D1117&ring=FFD166&fire=FF6B35&currStreakLabel=FFD166&sideLabels=FFA94D&dates=888888&border_radius=12" height="155"/>
-
-</div>
-
+### 🧭 About Me
+> 🌌 Passionate about technology & programming.<br>
+> 💡 Always exploring new ideas and coding challenges.<br>
+> 🎮 Loves to code while listening to lo-fi & retro music.<br>
+> ☕ Fueled by coffee and curiosity.<br>
 ---
-
-### ⚔️ Devil Fruit Powers
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,bash,linux,vscode,github,git&theme=dark" />
-
-<br/><br/>
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-1793D1?style=for-the-badge&logo=kalilinux&logoColor=FFD166)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=FFD166)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6B35?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=FFD166)
-
-</div>
-
+### 📊 GitHub Stats & Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RadenMuhammadZalfaAlbani&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadenMuhammadZalfaAlbani&layout=compact&theme=radical&hide_border=true" height="165" />
+</p>
 ---
-
-### 🏆 Grand Line Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=RadenMuhammadZalfaAlbani&theme=gruvbox&no-frame=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
+### 🧰 Languages & Tools
+<p align="center"> <!-- Programming Languages --> <img src="https://skillicons.dev/icons?i=cpp,python" /> </p> <p align="center"> <!-- Cyber Security & Linux Tools --> <img src="https://skillicons.dev/icons?i=linux,bash,vscode,github" /> </p> <p align="center"> <!-- Cyber Security Badges --> <img src="https://img.shields.io/badge/Cyber%20Security-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=green" /> <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" /> </p>
 ---
-
-### 🌊 Voyage Activity Map
-
-<div align="center">
-
-[![Zalfa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RadenMuhammadZalfaAlbani&bg_color=0D1117&color=FFD166&line=FF6B35&point=FFA94D&area=true&hide_border=true&border_radius=12&custom_title=⚓ Pirate Voyage Log)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
+### 🏆 Achievements & Badges
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RadenMuhammadZalfaAlbani&theme=darkhub&no-frame=true&margin-w=10" />
+</p>
 ---
-
-### 🐍 Sea Serpent Trail
-
-<div align="center">
-
-![snake gif](https://github.com/RadenMuhammadZalfaAlbani/RadenMuhammadZalfaAlbani/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://instagram.com/zalfa4lb4ni" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@claymoree_22" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+</p>
 ---
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  ☠️   "Code, Create, and Keep Improving Every Day."   ☠️    ║
-║                  ~ Zalfa Albani, Cyber Pirate                ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer&animation=fadeIn)
-
-</div>
+### 🕹️ Fun Section
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RadenMuhammadZalfaAlbani&color=blueviolet&style=flat-square&label=Profile+Views" />
+</p>
+---
+<p align="center">💫 “Code, Create, and Keep Improving Every Day.” 💫</p>
