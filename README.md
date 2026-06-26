@@ -37,7 +37,7 @@ Dream    : Become a Security Engineer
 
 — Monkey D. Luffy 👒
 <p align="center">
-  <img src="./gagahcuy.png" width="70%">
+  <img src="./gagahcuy.png" width="50%">
 </p>
 
 ⭐ Thanks for visiting my profile!
