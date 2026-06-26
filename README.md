@@ -1,96 +1,130 @@
-<h1 align="center">🏴‍☠️ <span style="color:#00ff66;">[REDACTED]</span> // Captain's Cyber Log: <span style="color:#ffb400;">Raden Muhammad Zalfa Albani</span></h1>
+<div align="center">
 
-<p align="center">
-  <!-- GIF Luffy bertema cyberpunk/neon/glitch -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I1dm95bXpxb3VwbWpndnp2Znd1YnN2am95bm95bWp5Znd5Y3ZyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fQx8S7AERZbeM/giphy.gif" width="600" alt="Cyber Luffy" />
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=160&section=header&text=⚓%20Zalfa%20Albani&fontSize=42&fontColor=FFD166&animation=fadeIn&fontAlignY=42&desc=Cyber%20Pirate%20%7C%20Informatics%20Student%20%7C%20Code%20%26%20Conquer&descAlignY=65&descSize=14&descColor=FFA94D)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=System.Initialize(%22Grand+Line%22);Hacking+The+World+Government;Informatics+Student+%7C+Net+Runner" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=FFD166&center=true&vCenter=true&width=550&lines=🔐+Cybersecurity+Explorer;🐍+Python+%26+C%2B%2B+Dev;🏴‍☠️+Straw+Hat+Coder;🌊+Sailing+through+the+Digital+Ocean)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/WANTED-Bounty:%205,000,000,000-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/STATUS-HACKING%20IMPERIAL%20DOWN-00ff66?style=flat-square" />
-</p>
+![Visitors](https://komarev.com/ghpvc/?username=RadenMuhammadZalfaAlbani&color=FF6B35&style=for-the-badge&label=⚓+CREW)
 
----
+</div>
 
-### 🧭 Log Pose // Network Scan Results
+<br/>
 
-> 📡 **Scanning Sector:** Informatics student sailing through the deep web and complex networks.<br>
-> 🔑 **Current Exploit:** Breaching firewall algorithms and mastering data structures.<br>
-> 🎵 **Frequency:** Tuning into retro-cyber or darksynth wave during deep-dive terminal operations.<br>
-> ☕ **System Fuel:** Dark coffee, high-octane packet data, and absolute curiosity.
+<table align="center" border="0">
+<tr>
+<td valign="top" width="55%">
 
----
+### 🗺️ Captain's Log
 
-### 🛡️ Cyber-Fruit Arsenal (Tech Stack & Devil Fruits)
+```python
+class ZalfaAlbani:
+    name      = "Raden Muhammad Zalfa Albani"
+    role      = "🏴‍☠️ Informatics Student"
+    dream     = "King of the Hackers 👑"
+    
+    powers    = ["Cybersecurity", "Python",
+                 "C++", "Linux", "CTF"]
+    
+    ship      = "Kali Linux 🐉"
+    devil_fruit = "Hack-Hack no Mi 🍎"
+    treasure  = "The One Piece of Knowledge"
+    
+    fuel      = ["☕ Coffee", "🎵 Lo-fi"]
+    status    = "Always Exploring... 🧭"
+```
 
-<p align="center">
-  <!-- Logic & Core Systems -->
-  <span>🍇 <b>Paramecia Class (Core Logic):</b></span><br>
-  <img src="https://skillicons.dev/icons?i=cpp,python,linux,bash" />
-</p>
+<br/>
 
-<p align="center">
-  <!-- Terminal Tools -->
-  <span>🍈 <b>Logia Class (Hacking Matrix):</b></span><br>
-  <img src="https://skillicons.dev/icons?i=vscode,github" />
-</p>
+**📬 Transponder Snail**
 
-<p align="center">
-  <!-- Cyber Ops -->
-  <span>🍍 <b>Zoan Class (Cyber Guard & Exploits):</b></span><br>
-  <br>
-  <img src="https://img.shields.io/badge/Cyber%20Security-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=green" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFD166)](https://instagram.com/zalfa4lb4ni)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=FFD166)](https://www.tiktok.com/@claymoree_22)
 
----
+</td>
+<td valign="top" width="45%" align="center">
 
-### 📊 Marine Database Breach (GitHub Stats)
+<img src="https://media.giphy.com/media/kfUuyN3wJQVIqavLG5/giphy.gif" width="260" alt="Luffy Gear 5"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RadenMuhammadZalfaAlbani&show_icons=true&theme=dark&hide_border=true&title_color=00ff66&icon_color=ffb400&text_color=ffffff" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadenMuhammadZalfaAlbani&layout=compact&theme=dark&hide_border=true&title_color=00ff66&text_color=ffffff" height="165" />
-</p>
+> *"Orang yang tidak bisa melindungi apa pun,*
+> *tidak bisa melindungi siapapun."*
+> — **Roronoa Zoro** 🗡️
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🏆 World Government Trophies
+### 📊 Grand Line Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RadenMuhammadZalfaAlbani&theme=terminal&no-frame=true&margin-w=10" />
-</p>
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RadenMuhammadZalfaAlbani&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD166&icon_color=FF6B35&text_color=FFA94D&border_radius=12&custom_title=⚓ Pirate Stats&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadenMuhammadZalfaAlbani&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD166&text_color=FFA94D&border_radius=12&custom_title=🗡️ Arsenal"/>
 
-### 📞 Den Den Mushi Terminal (Connect)
+<img src="https://streak-stats.demolab.com/?user=RadenMuhammadZalfaAlbani&hide_border=true&background=0D1117&ring=FFD166&fire=FF6B35&currStreakLabel=FFD166&sideLabels=FFA94D&dates=888888&border_radius=12" height="155"/>
 
-<p align="center">
-  <a href="https://instagram.com/zalfa4lb4ni" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.tiktok.com/@claymoree_22" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
-### 🕹️ Net-Runner Simulation (Fun Section)
+### ⚔️ Devil Fruit Powers
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,bash,linux,vscode,github,git&theme=dark" />
+
+<br/><br/>
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-1793D1?style=for-the-badge&logo=kalilinux&logoColor=FFD166)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=FFD166)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6B35?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=FFD166)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RadenMuhammadZalfaAlbani&color=00ff66&style=flat-square&label=Intruders+Detected" />
-</p>
+### 🏆 Grand Line Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=RadenMuhammadZalfaAlbani&theme=gruvbox&no-frame=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
-<p align="center"><code style="color:#00ff66;">"Inherited Will, the Destiny of Age, and the Dreams of People. As long as people continue to pursue the meaning of Freedom, these things will never cease to be!"</code></p>
+### 🌊 Voyage Activity Map
+
+<div align="center">
+
+[![Zalfa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RadenMuhammadZalfaAlbani&bg_color=0D1117&color=FFD166&line=FF6B35&point=FFA94D&area=true&hide_border=true&border_radius=12&custom_title=⚓ Pirate Voyage Log)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+### 🐍 Sea Serpent Trail
+
+<div align="center">
+
+![snake gif](https://github.com/RadenMuhammadZalfaAlbani/RadenMuhammadZalfaAlbani/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  ☠️   "Code, Create, and Keep Improving Every Day."   ☠️    ║
+║                  ~ Zalfa Albani, Cyber Pirate                ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer&animation=fadeIn)
+
+</div>
