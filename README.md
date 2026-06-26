@@ -23,3 +23,10 @@ Dream    : Become a Security Engineer
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,linux,bash,git,github,mysql,html,css,javascript,vscode"/>
 </p>
+
+<h2 align="center">📊 Grand Line Stats</h2>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
