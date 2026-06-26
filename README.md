@@ -26,3 +26,8 @@ Dream    : Become a Security Engineer
 ✔ Build Open Source Projects
 ✔ Master Linux
 ✔ Become Security Engineer
+
+### 🕹️ Fun Section
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
