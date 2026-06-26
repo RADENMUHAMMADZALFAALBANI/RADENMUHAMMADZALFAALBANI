@@ -2,6 +2,10 @@
   <img src="./tes.png" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=39FF14&center=true&vCenter=true&width=700&lines=Welcome+Aboard+Captain!;Cybersecurity+Student;Python+%7C+Linux+%7C+CTF;Searching+The+One+Piece+of+Knowledge..." />
+</p>
+
 # 👒 Hi, I'm Raden Muhammad Zalfa Albani
 
 ### 🏴‍☠️ Cybersecurity Student • Linux Enthusiast • Future Security Engineer
