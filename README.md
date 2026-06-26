@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./assets/banner.png" width="100%">
+  <img src="./banner.png" width="100%">
 </p>
-
 <div align="center">
 
 # 👒 Hi, I'm Raden Muhammad Zalfa Albani
