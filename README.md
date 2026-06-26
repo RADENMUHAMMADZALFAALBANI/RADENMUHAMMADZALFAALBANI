@@ -1,130 +1,177 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=160&section=header&text=⚓%20Zalfa%20Albani&fontSize=42&fontColor=FFD166&animation=fadeIn&fontAlignY=42&desc=Cyber%20Pirate%20%7C%20Informatics%20Student%20%7C%20Code%20%26%20Conquer&descAlignY=65&descSize=14&descColor=FFA94D)
+# 👒 Hi, I'm Raden Muhammad Zalfa Albani
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=FFD166&center=true&vCenter=true&width=550&lines=🔐+Cybersecurity+Explorer;🐍+Python+%26+C%2B%2B+Dev;🏴‍☠️+Straw+Hat+Coder;🌊+Sailing+through+the+Digital+Ocean)](https://git.io/typing-svg)
+### 🏴‍☠️ Cybersecurity Student • Linux Enthusiast • Future Security Engineer
 
-![Visitors](https://komarev.com/ghpvc/?username=RadenMuhammadZalfaAlbani&color=FF6B35&style=for-the-badge&label=⚓+CREW)
+> *"Searching for the One Piece of Knowledge."*
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=F7D046&center=true&vCenter=true&width=650&lines=Welcome+aboard+Captain!;Cybersecurity+%7C+Python+%7C+Linux;CTF+Player+%7C+Backend+Developer;Never+Stop+Learning..." />
 
 </div>
 
-<br/>
+---
 
-<table align="center" border="0">
+<table>
 <tr>
-<td valign="top" width="55%">
 
-### 🗺️ Captain's Log
+<td width="60%">
 
-```python
-class ZalfaAlbani:
-    name      = "Raden Muhammad Zalfa Albani"
-    role      = "🏴‍☠️ Informatics Student"
-    dream     = "King of the Hackers 👑"
-    
-    powers    = ["Cybersecurity", "Python",
-                 "C++", "Linux", "CTF"]
-    
-    ship      = "Kali Linux 🐉"
-    devil_fruit = "Hack-Hack no Mi 🍎"
-    treasure  = "The One Piece of Knowledge"
-    
-    fuel      = ["☕ Coffee", "🎵 Lo-fi"]
-    status    = "Always Exploring... 🧭"
+## ⚓ Captain Information
+
+```bash
+$ whoami
+
+Name      : Raden Muhammad Zalfa Albani
+Role      : Informatics Student
+Location  : Indonesia
+Ship       : Kali Linux
+Focus      : Cybersecurity
+Dream      : Security Engineer
+Status     : Exploring Grand Line...
 ```
 
-<br/>
+### 🧠 Currently Learning
 
-**📬 Transponder Snail**
+- Web Security
+- Reverse Engineering
+- Linux
+- Python Automation
+- Digital Forensics
+- Capture The Flag (CTF)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFD166)](https://instagram.com/zalfa4lb4ni)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=FFD166)](https://www.tiktok.com/@claymoree_22)
+### ⚔ Devil Fruit
+
+🍎 Hack-Hack no Mi
+
+Special Ability
+
+- Finding vulnerabilities
+- Breaking things to learn
+- Building secure applications
 
 </td>
-<td valign="top" width="45%" align="center">
 
-<img src="https://media.giphy.com/media/kfUuyN3wJQVIqavLG5/giphy.gif" width="260" alt="Luffy Gear 5"/>
+<td align="center">
 
-> *"Orang yang tidak bisa melindungi apa pun,*
-> *tidak bisa melindungi siapapun."*
-> — **Roronoa Zoro** 🗡️
+<img width="300" src="https://media.tenor.com/REPLACE_WITH_YOUR_LUFFY_GIF.gif"/>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-### 📊 Grand Line Stats
+# ⚒️ Arsenal
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RadenMuhammadZalfaAlbani&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD166&icon_color=FF6B35&text_color=FFA94D&border_radius=12&custom_title=⚓ Pirate Stats&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadenMuhammadZalfaAlbani&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD166&text_color=FFA94D&border_radius=12&custom_title=🗡️ Arsenal"/>
-
-<img src="https://streak-stats.demolab.com/?user=RadenMuhammadZalfaAlbani&hide_border=true&background=0D1117&ring=FFD166&fire=FF6B35&currStreakLabel=FFD166&sideLabels=FFA94D&dates=888888&border_radius=12" height="155"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,linux,bash,git,github,vscode,mysql,html,css,javascript"/>
 
 </div>
 
 ---
 
-### ⚔️ Devil Fruit Powers
+# 📊 Grand Line Stats
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,bash,linux,vscode,github,git&theme=dark" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<br/><br/>
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-1793D1?style=for-the-badge&logo=kalilinux&logoColor=FFD166)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=FFD166)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6B35?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=FFD166)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-### 🏆 Grand Line Trophies
+# 🏆 Pirate Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RadenMuhammadZalfaAlbani&theme=gruvbox&no-frame=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=7"/>
 
 </div>
 
 ---
 
-### 🌊 Voyage Activity Map
+# 🌊 Grand Line Voyage
 
 <div align="center">
 
-[![Zalfa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RadenMuhammadZalfaAlbani&bg_color=0D1117&color=FFD166&line=FF6B35&point=FFA94D&area=true&hide_border=true&border_radius=12&custom_title=⚓ Pirate Voyage Log)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-### 🐍 Sea Serpent Trail
+# 🐍 Sea King Trail
 
 <div align="center">
 
-![snake gif](https://github.com/RadenMuhammadZalfaAlbani/RadenMuhammadZalfaAlbani/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-<div align="center">
+# ⚓ Captain's Terminal
 
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+> booting...
+
+Initializing Pirate OS...
+
+✔ Python Loaded
+
+✔ Linux Loaded
+
+✔ Bash Loaded
+
+✔ Git Loaded
+
+✔ CTF Loaded
+
+✔ Cybersecurity Loaded
+
+Mission:
+Become one of the best Security Engineers.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  ☠️   "Code, Create, and Keep Improving Every Day."   ☠️    ║
-║                  ~ Zalfa Albani, Cyber Pirate                ║
-╚══════════════════════════════════════════════════════════════╝
-```
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer&animation=fadeIn)
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://instagram.com/USERNAME">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="https://linkedin.com/in/USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:email@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 👒 Pirate Quote
+
+> **"The One Piece isn't treasure... it's the knowledge we gain during the journey."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:F7D046&height=120&section=footer"/>
 
 </div>
