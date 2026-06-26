@@ -21,6 +21,11 @@ Dream    : Become a Security Engineer
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,linux,bash,git,github,mysql,html,css,javascript,vscode"/> </p>
 
 ☠️ Current Mission
+<p align="center">
+  <img src="buah1.png" width="70">
+  <img src="buah2.png" width="70">
+  <img src="buah3.png" width="70">
+</p>
 ✔ Learn More
 ✔ Capture Flags
 ✔ Build Open Source Projects
