@@ -20,5 +20,5 @@ Dream    : Become a Security Engineer
 ```
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,linux,bash,git,github,mysql,html,css,javascript,vscode"/> </p>
 
-🏆 Pirate Achievements
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=RADENMUHAMMADZALFAALBAN&theme=matrix&no-frame=true&margin-w=15"/> </p>
+🌊 Voyage Activity
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_KAMU&theme=github-dark&hide_border=true&line=39FF14&color=39FF14&point=FFD700"/> </p>
