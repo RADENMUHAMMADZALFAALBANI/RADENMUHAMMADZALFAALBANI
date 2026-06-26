@@ -9,7 +9,7 @@
 <!-- GREETING + ART ROW -->
 <div align="center">
 
-### ⚡ Aku akan jadi Raja Para Hacker! ⚡
+### ⚡ Biasa Ajaaa! ⚡
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=FFD166&center=true&vCenter=true&width=550&lines=%F0%9F%94%90+Cybersecurity+Explorer;%F0%9F%90%8D+Python+%26+C%2B%2B+Dev;%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+Straw+Hat+Coder;%F0%9F%8C%8A+Sailing+through+the+Digital+Ocean)](https://git.io/typing-svg)
 
